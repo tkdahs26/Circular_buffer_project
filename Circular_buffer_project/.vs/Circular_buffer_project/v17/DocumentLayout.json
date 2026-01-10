@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bsm\\source\\repos\\Circular_buffer_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12D0A3-DF40-46D9-AB45-294275DDBC5F}|Circular_buffer_project\\Circular_buffer_project.vcxproj|C:\\Users\\bsm\\source\\repos\\Circular_buffer_project\\Circular_buffer_project\\Circular_buffer_project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B12D0A3-DF40-46D9-AB45-294275DDBC5F}|Circular_buffer_project\\Circular_buffer_project.vcxproj|solutionrelative:Circular_buffer_project\\Circular_buffer_project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B12D0A3-DF40-46D9-AB45-294275DDBC5F}|Circular_buffer_project\\Circular_buffer_project.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.40.33807\\INCLUDE\\XUTILITY||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "xutility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xutility",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xutility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xutility",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\xutility",
+              "ViewState": "AQIAAEoaAAAAAAAAAAAkwGIaAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-10T23:03:18.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circular_buffer_project.cpp",
+              "DocumentMoniker": "C:\\Users\\bsm\\source\\repos\\Circular_buffer_project\\Circular_buffer_project\\Circular_buffer_project.cpp",
+              "RelativeDocumentMoniker": "Circular_buffer_project\\Circular_buffer_project.cpp",
+              "ToolTip": "C:\\Users\\bsm\\source\\repos\\Circular_buffer_project\\Circular_buffer_project\\Circular_buffer_project.cpp",
+              "RelativeToolTip": "Circular_buffer_project\\Circular_buffer_project.cpp",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAwwK4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-10T17:32:47.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

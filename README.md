@@ -9,7 +9,7 @@ Tool: Visual Studio 2022<br><br>
 
 <br>주요 기능
 <br>템플릿클래스활용한 다양한 데이터 타입
-<br>head와 tail만으로 데이터 관리
+<br>head와 tail만으로 인덱스값만 변경하여 데이터 관리
 
 <br><br>
 

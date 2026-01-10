@@ -9,7 +9,7 @@ Tool: Visual Studio 2022<br><br>
 
 <br>주요 기능
 <br>템플릿클래스활용한 다양한 데이터 타입
-<br>`head`와 `tail` 포인터를 성능의 데이터 삽입
+<br>head와 tail 포인터를 성능의 데이터 삽입
 
 <br><br>
 
